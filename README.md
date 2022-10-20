@@ -1,2 +1,2 @@
 # delctratech
-# certain number of people that can access this repository
+certain number of people that can access this repository
