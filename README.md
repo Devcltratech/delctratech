@@ -1,2 +1,2 @@
 # delctratech
-don't do spamming in there
+# certain number of people that can access this repository
