@@ -57,10 +57,10 @@ span:before {
 	width: 16px;
 	height: 16px;
 	border-radius: 50%;
-	background-color: #812fc4;
+	background-color: #5c2fc4;
 	top: -6px;
 	right: -8px;
-	box-shadow: 0 0 20px #812fc4;
+	box-shadow: 0 0 20px #5c2fc4;
 }
 
 @keyframes animateCircle {
