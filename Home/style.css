@@ -175,8 +175,9 @@ body
     align-items: center;
 }
 .main1 center .h2 {
-    margin-left: 42%;
-    margin-right: 42%;
+    width: 60%;
+    margin-left: 5%;
+    margin-right: 5%;
     padding: 5px 10px;
     text-align: center;
     font-size: 70x;
